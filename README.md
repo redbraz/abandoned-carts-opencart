@@ -1,4 +1,4 @@
-# Abandoned Carts Recovery for Open Cart v 1.1.2
+# Abandoned Carts Recovery for Open Cart v 1.2.2
 For Open Cart 2.3.0.2
 
 For a list of improvements & fixes, see the [changelog](changelog.md).
@@ -66,6 +66,8 @@ If you changed your admin url to something other  than /admin (as *everyone* sho
 This extension should be multi-store compatible out of the box, but was *not* tested to ensure compatibility.
 
 Tested in a single shopping cart environment running PHP 7.0+
+
+:ghost: If your online store utilizes a Onepage checkout extension, you may be interested in [Purge Ghost Orders](https://github.com/z0m8i3/purge-ghost-orders-opencart)
 
 ### Note ###
 You do not need to clone this repository to utilize the plugin, all you have to do is download the
