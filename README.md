@@ -92,4 +92,4 @@ If this plugin is beneficial for you & you'd like to contribute to future develo
 
 | PayPal | Buy a Coffee |
 | --- | --- |
-| [![paypal](./img/paypal.png)](https://www.paypal.me/angela-d) |  <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/angela"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy a coffee"><span style="margin-left:5px">Buy a coffee</span></a> |
+| [![paypal](./img/paypal.png)](https://www.paypal.me/z0m8i3) |  <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/angela"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy a coffee"><span style="margin-left:5px">Buy a coffee</span></a> |
